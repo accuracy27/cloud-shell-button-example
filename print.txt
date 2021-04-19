@@ -1,0 +1,1 @@
+Print out this text when cloud shell opens.
